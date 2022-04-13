@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img width="300px" src="./img/logo-desktop.svg">
+    <img width="300px" src="./img/logo-mobile.svg">
     <br><br>
     <p align="center">
       <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,8 +19,6 @@
 O <strong>RocketCoffee</strong> é uma homepage desenvolvida para uma marca de café.
 
 Homepage desenvolvida em um desafio distribuído pela [Rocketseat](https://rocketseat.com.br/).
-
-[Rocketseat](https://rocketseat.com.br/).
 
 ## 🖼 Screenshot
 
