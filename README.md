@@ -27,7 +27,7 @@ Homepage desenvolvida em um desafio distribuído pela [Rocketseat](https://rocke
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML](https://www.w3schools.com/html/default.asp)
-- [Express](https://www.w3schools.com/css/)
+- [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.javascript.com/)
 
 ## 🔗 Links do projeto
