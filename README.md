@@ -37,3 +37,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Figma
 [RocketCoffee](https://www.figma.com/file/mURtWURPIX3wY2otNKbwmZ/RocketCoffee-Copy?fuid=898338598587225189)
+
+> Status do Projeto: Em andamento...
